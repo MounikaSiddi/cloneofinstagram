@@ -12,10 +12,6 @@ This repository contains the code for an Instagram clone project developed by Mo
 
 - **Frontend:** HTML, CSS
 
-## Check Live Here 🚀
-- [Live Demo](file:///C:/Users/ADMIN/OneDrive/Desktop/UIofinsta/Home.html)
-- [Live Demo](https://dosomething-sagar.github.io/instagram-clone/)
-
 ## Installation
 
 ```bash
