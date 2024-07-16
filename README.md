@@ -6,7 +6,7 @@ This repository contains the code for an Instagram clone project developed by Mo
 
 ## Contributors
 
-- **Mounika Siddi** - Lead Develope
+- **Mounika Siddi** - Lead Developer
 - **Devtown** - Course Provider and Mentor
 ## Technologies Used
 
