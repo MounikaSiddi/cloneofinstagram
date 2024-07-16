@@ -10,7 +10,7 @@ This repository contains the code for an Instagram clone project developed by Mo
 - **Devtown** - Course Provider and Mentor
 ## Technologies Used
 
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS,JS
 
 ## Installation
 
